@@ -60,6 +60,11 @@ let g:vim_json_syntax_conceal = 0
 set runtimepath^=~/.vim/bundle/ctrlp.vim
 
 "=============================
+"Typescript plugin
+"=============================
+Plugin 'leafgarland/typescript-vim'
+
+"=============================
 " END PLUGINS SECTION
 "
 " All of your Plugins must
