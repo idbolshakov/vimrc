@@ -72,8 +72,6 @@ Plugin 'leafgarland/typescript-vim'
 " following line
 "=============================
 call vundle#end()
-filetype plugin indent on
-
 
 
 "==============================================================================
@@ -96,10 +94,10 @@ set colorcolumn=+1
 set nu
 
 "indents
-filetype plugin indent on
 set tabstop=2
 set shiftwidth=2
 set expandtab
+set paste
 
 "Syntax
 au BufRead,BufNewFile *.njk setfiletype html
