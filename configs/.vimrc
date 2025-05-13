@@ -97,7 +97,6 @@ set nu
 set tabstop=2
 set shiftwidth=2
 set expandtab
-set paste
 
 "Syntax
 au BufRead,BufNewFile *.njk setfiletype html
