@@ -47,7 +47,6 @@ colorscheme hybrid_material
 "=============================
 Plugin 'pangloss/vim-javascript'
 Plugin 'mxw/vim-jsx'
-Plugin 'mustache/vim-mustache-handlebars'
 
 "=============================
 " json plugin
